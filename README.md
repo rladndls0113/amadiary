@@ -1,2 +1,8 @@
-hi it's for test git.
-so, don't u mind.
+
+
+#### 경고문 (WRAING) 시작 ####
+
+- 이 문서는 25.01.07 작성된 문서입니다.
+- amadiary를 cafe24 -> aws 이동을 위해 git에 포함했습니다.
+
+#### 경고문 (WRAING) 끝 ####
